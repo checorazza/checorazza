@@ -29,5 +29,5 @@ https://coolors.co/palette/fbf8cc-fde4cf-ffcfd2-f1c0e8-cfbaf0-a3c4f3-90dbf4-8eec
 <h2 align=center> Tools</h2>
 
 <p align=center>
-  <img height=30px alt="Trello" src="https://custom-icon-badges.demolab.com/badge/-Trello-badges?color=81AEEF&logo=java000707&labelColor=81AEEF&">
+  <img height=30px alt="Trello" src="https://custom-icon-badges.demolab.com/badge/-Trello-badges?color=81AEEF&logo=trello&labelColor=81AEEF&">
 </p>
