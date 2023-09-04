@@ -1,5 +1,13 @@
-<h1 align=center> Hello 👋 </h1>
+<p align=center> <a href=#> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BA56F7&center=true&width=435&lines=Hello+World!%F0%9F%91%8B;I'm+Cecilia+Corazza" alt="Typing SVG" /></a> </p>
 
+<p align=center> I'm a passionate developer from Argentina 🇦🇷 </p>
+
+<hr>
+
+<p align=center>
+  💻Studying <b> Systems Engineering </b> at Universidad Tecnológica Nacional <br>
+  🌱 <b>Currently learning: </b>Java
+</p>
 
 <!--
 **checorazza/checorazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,23 +23,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-PALETA:
-https://coolors.co/palette/fbf8cc-fde4cf-ffcfd2-f1c0e8-cfbaf0-a3c4f3-90dbf4-8eecf5-98f5e1-b9fbc0
+
 -->
 
-<h3 align=center> Programming Languages</h2>
-<p align=center>
-  <img height=30px alt="Java" src="https://custom-icon-badges.demolab.com/badge/-Java-badges?color=FA6C6C&logo=java000707&labelColor=FA6C6C&logoColor=white">
-  <img height=30px alt="Python" src="https://custom-icon-badges.demolab.com/badge/-Python-badges?color=3752CE&logo=python&labelColor=3752CE&logoColor=white">
-</p>
 
-<h3 align=center> Tools</h2>
-<p align=center>
-  <a href='#'> <img height=30px alt="Trello" src="https://custom-icon-badges.demolab.com/badge/-Trello-badges?color=81AEEF&logo=trello&labelColor=81AEEF&"> </a>
-  <a href='#'> <img height=30px alt="Photoshop" src="https://custom-icon-badges.demolab.com/badge/-Photoshop-badges?color=53A1F4&logo=adobephotoshop&labelColor=53A1F4&logoColor=black"> </a>
-</p>
 
 <p align=center>
-  <a href='#'> <img alt="Excel" src="https://custom-icon-badges.demolab.com/badge/-Excel-badges?color=47CD71&logo=microsoftexcel&labelColor=47CD71&"> </a>  
-  <a href='#'> <img alt="Word" src="https://custom-icon-badges.demolab.com/badge/-Word-badges?color=477FCD&logo=microsoftword&labelColor=477FCD&"> </a>
+  <a href=https://www.linkedin.com/in/corazzacecilia/> <img height=30px alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-badges?color=3D95D3&logo=linkedin&labelColor=3D95D3&logoColor=white"> </a>
+</p>
+
+<h3 align=center>Skills</h3>
+<p align=center>
+  <img src=https://skillicons.dev/icons?i=java,python,html,css>
+</p>
+
+<h3 align=center>Software and Tools</h3>
+<p align=center>
+  <img src=https://skillicons.dev/icons?i=ps,ai,ae,vscode,idea,figma>
+</p>
+
+<p align=center>
+
 </p>
