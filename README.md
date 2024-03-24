@@ -34,12 +34,12 @@ Here are some ideas to get you started:
 
 <h3 align=center>Skills</h3>
 <p align=center>
-  <img src=https://skillicons.dev/icons?i=java,python,html,css>
+  <img src=https://skillicons.dev/icons?i=python>
 </p>
 
 <h3 align=center>Software and Tools</h3>
 <p align=center>
-  <img src=https://skillicons.dev/icons?i=ps,ai,ae,vscode,idea,figma>
+  <img src=https://skillicons.dev/icons?i=ps,vscode>
 </p>
 
 <p align=center>
