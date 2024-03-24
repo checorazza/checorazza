@@ -6,7 +6,7 @@
 
 <p align=center>
   💻Studying <b> Systems Engineering </b> at Universidad Tecnológica Nacional <br>
-  🌱 <b>Currently learning: </b>Java
+  🌱 <b>Currently learning: </b>NumPy
 </p>
 
 <!--
