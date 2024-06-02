@@ -1,47 +1,34 @@
-<p align=center> <a href=#> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BA56F7&center=true&width=435&lines=Hello+World!%F0%9F%91%8B;I'm+Cecilia+Corazza" alt="Typing SVG" /></a> </p>
-
-<p align=center> I'm a passionate developer from Argentina 🇦🇷 </p>
+<h1> Hi! I'm Cecilia! </h1>
 
 <hr>
 
-<p align=center>
-  💻Studying <b> Systems Engineering </b> at Universidad Tecnológica Nacional <br>
-  🌱 <b>Currently learning: </b>NumPy
+<p>
+  📗Studied <b> Bachelor's Degree in Information Systems Analysis </b> <br>
+  💻Studying <b> MS in Information Systems Engineering </b> at <a href=https://www.linkedin.com/school/universidad-tecnologica-nacional/> Universidad Tecnológica Nacional </a> <br>
+  🌱 <b>Currently learning:</b> Data Analysis <br><br>
+  <a href=https://www.linkedin.com/in/corazzacecilia/> <img height=25px alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=%23FFFFFF&color=%233F83C7" target="_blank"></a>
+  <a href=https://youtube.com/@CheCorazza> <img height=25px alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank"></a>
 </p>
 
-<!--
-**checorazza/checorazza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<h3 align=center>Tech Stack</h3>
+<div align=center>
+  <img src=https://skillicons.dev/icons?i=python,mongodb,mysql> <br>
+  <p>________</p>
+  <img height=25px alt="NumPy" src="https://img.shields.io/badge/NumPy-NumPy?style=flat-square&logo=NumPy&color=%233F83C7">
+  <img height=25px alt="PySpark" src="https://img.shields.io/badge/PySpark-PySpark?style=flat-square&logo=apachespark&logoColor=%23FFFFFF&color=%23D77645">
+  <img height=25px alt="Pandas" src="https://img.shields.io/badge/Pandas-Pandas?style=flat-square&logo=pandas&logoColor=%23FFFFFF&color=DC4882">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3 align=center>Software</h3>
+<div align=center>
+  <img src=https://skillicons.dev/icons?i=ps,figma,vscode>
+</div>
 
+![](https://github-readme-stats.vercel.app/api?username=checorazza&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
--->
+---
+[![](https://visitcount.itsvg.in/api?id=checorazza&icon=4&color=6)](https://visitcount.itsvg.in)
 
-
-
-<p align=center>
-  <a href=https://www.linkedin.com/in/corazzacecilia/> <img height=30px alt="Linkedin" src="https://custom-icon-badges.demolab.com/badge/-Linkedin-badges?color=3D95D3&logo=linkedin&labelColor=3D95D3&logoColor=white"> </a>
-</p>
-
-<h3 align=center>Skills</h3>
-<p align=center>
-  <img src=https://skillicons.dev/icons?i=python>
-</p>
-
-<h3 align=center>Software and Tools</h3>
-<p align=center>
-  <img src=https://skillicons.dev/icons?i=ps,vscode>
-</p>
-
-<p align=center>
-
-</p>
