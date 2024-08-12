@@ -3,9 +3,9 @@
 <hr>
 
 <p>
-  📗Studied <b> Bachelor's Degree in Information Systems Analysis </b> <br>
+  📗Studying <b> Bachelor's Degree in Information Systems Analysis </b> <br>
   💻Studying <b> MS in Information Systems Engineering </b> at <a href=https://www.linkedin.com/school/universidad-tecnologica-nacional/> Universidad Tecnológica Nacional </a> <br>
-  🌱 <b>Currently learning:</b> Data Analysis <br><br>
+  <!-- 🌱 <b>Currently learning:</b> Data Analysis <br><br> -->
   <a href=https://www.linkedin.com/in/corazzacecilia/> <img height=25px alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=%23FFFFFF&color=%233F83C7" target="_blank"></a>
   <!-- <a href=https://youtube.com/@CheCorazza> <img height=25px alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank"></a> -->
 </p>
