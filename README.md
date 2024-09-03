@@ -1,6 +1,6 @@
 <h1> Hi! I'm Cecilia! </h1>
 
-<hr>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact">
 
 <p>
   📗Studying <b> Bachelor's Degree in Information Systems Analysis </b> <br>
@@ -25,9 +25,6 @@
 <div align=center>
   <img src=https://skillicons.dev/icons?i=ps,figma,vscode>
 </div>
-
-![](https://github-readme-stats.vercel.app/api?username=checorazza&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true) <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=checorazza&icon=4&color=6)](https://visitcount.itsvg.in)
