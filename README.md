@@ -12,18 +12,17 @@
 
 <hr>
 
-<h3 align=center>Tech Stack</h3>
+
 <div align=center>
-  <img src=https://skillicons.dev/icons?i=python,mysql> <br>
+  <h3 align=center>Tech Stack</h3>
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=python,sqlite&titles=true> <br>
   <p>________</p>
-  <!-- <img height=25px alt="NumPy" src="https://img.shields.io/badge/NumPy-NumPy?style=flat-square&logo=NumPy&color=%233F83C7">
-  <img height=25px alt="PySpark" src="https://img.shields.io/badge/PySpark-PySpark?style=flat-square&logo=apachespark&logoColor=%23FFFFFF&color=%23D77645">
-  <img height=25px alt="Pandas" src="https://img.shields.io/badge/Pandas-Pandas?style=flat-square&logo=pandas&logoColor=%23FFFFFF&color=DC4882"> -->
 </div>
 
-<h3 align=center>Software</h3>
+
 <div align=center>
-  <img src=https://skillicons.dev/icons?i=ps,figma,vscode>
+  <h3 align=center>Data Visualization</h3>
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=excel,tableau,pbi&titles=true>
 </div>
 
 ---
