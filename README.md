@@ -16,7 +16,7 @@
 
 <div align=right>
   <a href="https://www.github.com/checorazza">
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=true&custom_title=Languages&langs_count=20">
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&include_all_commits=false&count_private=true&custom_title=Languages&langs_count=20">
 </a>
 </div>
 
