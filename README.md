@@ -1,6 +1,10 @@
 <h1> Hi! 👋 I'm Cecilia </h1>
 <div align=left>
-
+<div align=right>
+  <a href="https://www.github.com/checorazza">
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&custom_title=Languages&langs_count=20">
+</a>
+</div>
 <p>
   
   📗 Studying <b> Bachelor's Degree in Information Systems Analysis </b> at Universidad Tecnológica Nacional <br>
@@ -12,12 +16,6 @@
   <a href=https://youtube.com/@CheCorazza> <img height=25px alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank"></a>
 </p>
 <h1></h1>
-</div>
-
-<div align=right>
-  <a href="https://www.github.com/checorazza">
-  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&include_all_commits=false&count_private=true&custom_title=Languages&langs_count=20">
-</a>
 </div>
 
 <div align=center>
