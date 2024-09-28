@@ -1,4 +1,8 @@
-<img src="imgs/header.gif">
+<img src="imgs/header.jpg">
+<div align=center>
+  <a href=https://www.linkedin.com/in/corazzacecilia/> <img height=25px alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=%23FFFFFF&color=%233F83C7" target="_blank"></a>
+  <a href=https://youtube.com/@CheCorazza> <img height=25px alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank"></a>
+</div>
 
 <h1> Hi! 👋 I'm Cecilia </h1>
 <div align=left>
@@ -39,5 +43,5 @@
 </div>
 
 
-<a href="https://github.com/checorazza"><img src="https://visitcount.itsvg.in/api?id=checorazza&icon=4&color=6"> </a>
+<p align=center> <a href="https://github.com/checorazza"><img src="https://visitcount.itsvg.in/api?id=checorazza&icon=4&color=6"> </a> </p>
 
