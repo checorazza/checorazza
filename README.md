@@ -3,21 +3,19 @@
   <a href=https://www.linkedin.com/in/corazzacecilia/> <img height=25px alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=%23FFFFFF&color=%233F83C7" target="_blank"></a>
   <a href=https://youtube.com/@CheCorazza> <img height=25px alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" target="_blank"></a>
 </div>
-
-<h1> Hi! 👋 I'm Cecilia </h1>
-<div align=left>
 <div align=right>
   <a href="https://www.github.com/checorazza">
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&custom_title=Languages&langs_count=20">
 </a>
 </div>
+
+<h1> Hi! 👋 I'm Cecilia </h1>
   <ul>
   <li>📗 Studying <b> BS in Information Systems Analysis </b> </li>
   <li> 📘 Studying <b> MS in Information Systems Engineering </b> </li>
   <li> 💭 I speak English, Spanish and Italian </li>
   </ul>
 <h1></h1>
-</div>
 
 <div align=center>
   <h3 align=center>Tech Stack</h3>
