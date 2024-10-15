@@ -33,12 +33,6 @@
 
 <hr>
 
-<div align=center>
-  <h1> Notes </h1>
-  A collection of my personal notes and learning materials <br> <br>
-  <a href="https://github.com/checorazza/python-dev-notes"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=checorazza&repo=python-dev-notes&theme=react&hide_border=true&border_radius=10"> </a>
-</div>
-
 
 <p align=center> <a href="https://github.com/checorazza"><img src="https://visitcount.itsvg.in/api?id=checorazza&icon=4&color=6"> </a> </p>
 
