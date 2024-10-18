@@ -11,15 +11,15 @@
 </ul>
 <h3>Connect with me!</h3>
 <div>
-  <a href=https://www.linkedin.com/in/corazzacecilia/> <img height=25px alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=%23FFFFFF&color=%233F83C7"></a>
-  <a href=https://youtube.com/@CheCorazza> <img height=25px alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" target="_blank"></a>
-  <a> <img height=25px alt="Email" src="https://img.shields.io/badge/Email-ff5586?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href=https://www.linkedin.com/in/corazzacecilia/><img height=25px alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=%23FFFFFF&color=%233F83C7"></a>
+  <a href=https://youtube.com/@CheCorazza><img height=25px alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" target="_blank"></a>
+  <a><img height=25px alt="Email" src="https://img.shields.io/badge/Email-ff5586?style=flat-square&logo=gmail&logoColor=white"></a>
 </div>
   <p align=center>━━━━━━━━☆★☆━━━━━━━━</p>
   
 <div align=center>
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=omni&hide_border=true&include_all_commits=false&count_private=true&layout=compact&custom_title=Languages&langs_count=20"></a>
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=omni&hide_border=true&hide=prs,issues&show=prs_merged&hide_rank=true&include_all_commits=true&custom_title=Stats"></a>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&custom_title=Languages&langs_count=20"></a>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=true&hide=prs,issues&show=prs_merged&hide_rank=true&include_all_commits=true&custom_title=Stats"></a>
 </div>
 <h1></h1>
 
