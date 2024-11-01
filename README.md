@@ -24,15 +24,9 @@
 <h1></h1>
 
 <div align=center>
-  <h3 align=center>Tech Stack</h3>
-  <img alt="python" src=https://go-skill-icons.vercel.app/api/icons?i=python&titles=true> <br>
-  <br><p>・・・・・・・・・</p>
-  <h3 align=center>Databases</h3>
-  <img alt="mysql" src=https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true> <br>
+  <h3 align=center>Technologies</h3>
+  <img alt="python" src=https://go-skill-icons.vercel.app/api/icons?i=python,mysql&titles=true> <br>
   <br><p>・・・・・・・・・</p>
   <h3 align=center>Data Visualization</h3>
   <img alt="excel,tableau,powerbi" src=https://go-skill-icons.vercel.app/api/icons?i=excel,tableau,pbi&titles=true><br>
-  <br><p>・・・・・・・・・</p>
-  <h3 align=center>Tools</h3>
-  <img alt="excel,tableau,powerbi" src=https://go-skill-icons.vercel.app/api/icons?i=figma,jira,git&titles=true>
 </div>
