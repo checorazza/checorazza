@@ -18,8 +18,8 @@
   <p align=center>━━━━━━━━☆★☆━━━━━━━━</p>
   
 <div align=center>
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats-checorazza.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=true&hide=prs,issues&show=prs_merged&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=00000000"></a>
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats-checorazza.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&custom_title=Languages&langs_count=20&exclude_repo=Desarrollo-TP-APIREST-2,Desarrollo-TPApiRest,Desarrollo-TPJPAEnvers,Desarrollo-TPJPA,Desarrollo-TPReact,Desarrollo-IntegradorJS&hide=dockerfile&bg_color=00000000"></a>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats-checorazza.vercel.app/api?username=checorazza&show_icons=true&theme=checorazza&hide_border=true&hide=prs,issues&show=prs_merged&hide_rank=false&include_all_commits=true&custom_title=Stats"></a>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats-checorazza.vercel.app/api/top-langs/?username=checorazza&theme=checorazza&hide_border=true&include_all_commits=false&count_private=true&layout=compact&custom_title=Languages&langs_count=20&exclude_repo=Desarrollo-TP-APIREST-2,Desarrollo-TPApiRest,Desarrollo-TPJPAEnvers,Desarrollo-TPJPA,Desarrollo-TPReact,Desarrollo-IntegradorJS&hide=dockerfile"></a>
   
 </div>
 <h1></h1>
@@ -29,7 +29,7 @@
   <a href="https://github.com/search?q=user%3Achecorazza+language%3Apython&type=repositories"><img title="Python" alt="Python" src=https://go-skill-icons.vercel.app/api/icons?i=python&titles=true></a>
   <a href="https://github.com/checorazza"> <img title="MySQL" alt="MySQL" src=https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true> </a>
     <br>
-  <br><p>・・・・・・・・・</p>
+  <br><p>・・・・・</p>
   <h3 align=center>Data Visualization</h3>
   <a href="https://github.com/checorazza"><img title="Excel" alt="powerbi" src=https://go-skill-icons.vercel.app/api/icons?i=excel&titles=true></a>
   <a href="https://github.com/checorazza"><img title="Tableau" alt="tableau" src=https://go-skill-icons.vercel.app/api/icons?i=tableau&titles=true></a>
