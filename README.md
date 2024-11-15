@@ -18,7 +18,7 @@
   <p align=center>━━━━━━━━☆★☆━━━━━━━━</p>
   
 <div align=center>
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&custom_title=Languages&langs_count=20&exclude_repo=Desarrollo-TP-APIREST-2,Desarrollo-TPApiRest,Desarrollo-TPJPAEnvers,Desarrollo-TPJPA&hide=dockerfile"></a>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats-checorazza.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&include_all_commits=false&count_private=true&layout=compact&custom_title=Languages&langs_count=20&exclude_repo=Desarrollo-TP-APIREST-2,Desarrollo-TPApiRest,Desarrollo-TPJPAEnvers,Desarrollo-TPJPA,Desarrollo-TPReact,Desarrollo-IntegradorJS&hide=dockerfile"></a>
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats-checorazza.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=true&hide=prs,issues&show=prs_merged&hide_rank=true&include_all_commits=true&custom_title=Stats"></a>
 </div>
 <h1></h1>
