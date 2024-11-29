@@ -12,8 +12,7 @@
 <h3>Connect with me!</h3>
 <div>
   <a href=https://www.linkedin.com/in/corazzacecilia/><img height=25px alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn?style=flat-square&logo=linkedin&logoColor=%23FFFFFF&color=%233F83C7"></a>
-  <a href=https://youtube.com/@CheCorazza><img height=25px alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white" target="_blank"></a>
-  <a><img height=25px alt="Email" src="https://img.shields.io/badge/Email-ff5586?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href=mailto:mceciliacorazza@gmail.com><img height=25px alt="Email" src="https://img.shields.io/badge/Email-ff5586?style=flat-square&logo=gmail&logoColor=white"></a>
 </div>
 <p align=center>━━━━━━━━☆★☆━━━━━━━━</p>
   
