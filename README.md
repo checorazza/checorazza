@@ -18,8 +18,8 @@
 <div align=center>
   <h>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</p>
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=omni&hide_border=true&hide=prs,issues&show=prs_merged&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0D1117"></a>
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=Languages&langs_count=6&hide=dockerfile&&size_weight=0.5&count_weight=0.5&bg_color=0D1117"></a>
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-streak-stats.herokuapp.com?user=checorazza&theme=omni&hide_border=true&card_width=555&card_height=245&background=0D1117&fire=FFE55E&stroke=EB545400&currStreakLabel=F060A2&ring=F060A2" alt="GitHub Streak" /></a>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=omni&hide_border=true&include_all_commits=true&count_private=true&layout=compact&custom_title=Languages&langs_count=6&hide=dockerfile&&size_weight=0.5&count_weight=0.5&bg_color=0D1117"></a> <br>
+  <a href="https://www.github.com/checorazza"><img onerror='this.remove()' src="https://github-readme-streak-stats.herokuapp.com?user=checorazza&theme=omni&hide_border=true&card_width=555&card_height=245&background=0D1117&fire=FFE55E&stroke=EB545400&currStreakLabel=F060A2&ring=F060A2"/></a>
 </div>
 <h1></h1>
 
