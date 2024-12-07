@@ -5,8 +5,7 @@
 </div>
 <img align=right src="imgs/computer.gif" width=250px>
 <ul>
-  <li>📗 Studying <b> BS in Information Systems Analysis </b> </li>
-  <li> 📘 Studying <b> MS in Information Systems Engineering </b> </li>
+  <li> 📗 Studying <b> MS in Information Systems Engineering </b> </li>
   <li> 💭 I speak English (C1), Spanish (Native), Italian (B1) and French (A1) </li>
   <li> ✏️ Currently focusing on my studies, preparing my thesis and learning other technologies </li>
   <li> 💡Fun fact about me: I love learning languages—both spoken and programming! </li>
