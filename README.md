@@ -5,17 +5,30 @@
   <img src="https://komarev.com/ghpvc/?username=checorazza&color=248bb4&style=for-the-badge">
   </h1>
 </div>
-<img align=right src="imgs/computer-2.gif" height=220px>
+<img align=right src="imgs/computer.png" width=400px>
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>—About Me </h2>
+    </summary>
+  </ul>
+</div>
 <ul>
-  <li> 📗 Studying <b> MS in Information Systems Engineering </b> </li>
+  <li> 📘 I'm studying <b> MS in Information Systems Engineering </b> </li>
   <li> 💭 I speak English (C1), Spanish (Native), Italian (B1) and French (A1) </li>
-  <li> ✏️ Currently focusing on my studies, preparing my thesis and learning other technologies </li>
-  <li> 💡Fun fact about me: I love learning languages—both spoken and programming! </li>
+  <li> 💻 Working on <a href="https://github.com/checorazza/100-Python-Projects">100 Python Projects</li>
+  <li> 💡Fun fact: I love learning languages—both spoken and programming! </li>
 </ul>
-<h3>Connect with me!</h3>
 <a href=https://www.linkedin.com/in/corazzacecilia/><img height=25px alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-LinkedIn?yle=flat&logo=linkedin&logoColor=%23FFFFFF&color=%233F83C7"></a>
 <a href=mailto:mceciliacorazza@gmail.com><img height=25px alt="Email" src="https://img.shields.io/badge/Email-ff5586?style=flat&logo=gmail&logoColor=white"></a>
 
+  <h3>Skills</h3>
+  <a href="https://github.com/search?q=user%3Achecorazza+language%3Apython&type=repositories"><img title="Python" alt="Python" src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true"></a>
+  <a href="https://github.com/checorazza"> <img title="MySQL" alt="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true"></a>
+  <a href="https://github.com/checorazza"><img title="Excel" alt="excel" src="https://go-skill-icons.vercel.app/api/icons?i=excel&titles=true"></a>
+  <a href="https://github.com/checorazza"><img title="Tableau" alt="tableau" src="https://go-skill-icons.vercel.app/api/icons?i=tableau&titles=true"></a>
+  <a href="https://github.com/checorazza"><img title="Power BI" alt="powerbi" src="https://go-skill-icons.vercel.app/api/icons?i=pbi&titles=true"></a>
+  <br>
 <div align=center>
   <br> <br>
   <h>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</p>
@@ -26,23 +39,5 @@
 <h1></h1>
 
 <div align=center>
-  <h3>Skills</h3>
-  <a href="https://github.com/search?q=user%3Achecorazza+language%3Apython&type=repositories"><img title="Python" alt="Python" src=https://go-skill-icons.vercel.app/api/icons?i=python&titles=true></a>
-  <a href="https://github.com/checorazza"> <img title="MySQL" alt="MySQL" src=https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true></a>
-  <a href="https://github.com/checorazza"><img title="Excel" alt="excel" src="https://go-skill-icons.vercel.app/api/icons?i=excel&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="Tableau" alt="tableau" src="https://go-skill-icons.vercel.app/api/icons?i=tableau&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="Power BI" alt="powerbi" src="https://go-skill-icons.vercel.app/api/icons?i=pbi&titles=true"></a>
-  <br>
-  <br><p>・・・・・</p>
-  <h3>Tools</h3>
-  
-  <a href="https://github.com/checorazza"><img height=25px title="Jira" alt="jira" src="https://img.shields.io/badge/Jira-242938?style=flat-square&logo=Jira&logoColor=white"></a>
-  <a href="https://github.com/checorazza"><img height=25px title="GitHub" alt="github" src="https://img.shields.io/badge/GitHub-242938?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://github.com/checorazza"><img height=25px title="Git" alt="git" src="https://img.shields.io/badge/Git-242938?style=flat-square&logo=git&logoColor=white"></a>
-  <a href="https://github.com/checorazza"><img height=25px title="Asana" alt="asana" src="https://img.shields.io/badge/Asana-242938?style=flat-square&logo=Asana&logoColor=white"></a>
-  <a href="https://github.com/checorazza"><img height=25px title="Trello" alt="trello" src="https://img.shields.io/badge/Trello-242938?style=flat-square&logo=trello&logoColor=white"></a>
-  <a href="https://github.com/checorazza"><img height=25px title="Miro" alt="miro" src="https://img.shields.io/badge/Miro-242938?style=flat-square&logo=Miro&logoColor=white"></a>
-  <a href="https://github.com/checorazza"><img height=25px title="Notion" alt="Notion" src="https://img.shields.io/badge/Notion-242938?style=flat-square&logo=notion&logoColor=white"></a>
-  <a href="https://github.com/checorazza"><img height=25px title="" alt="" src=""></a>
-  <a href="https://github.com/checorazza"><img height=25px title="" alt="" src=""></a>
+
 </div>
