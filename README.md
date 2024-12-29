@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=checorazza&color=248bb4&style=for-the-badge">
   </h1>
 </div>
-<img align=right src="imgs/computer.png" width=400px>
+<img align=right src="imgs/computer.png" width=300px>
 <div id="toc">
   <ul style="list-style: none">
     <summary>
