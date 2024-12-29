@@ -15,6 +15,7 @@
 </div>
 <ul>
   <li> 📘 I'm studying <b> MS in Information Systems Engineering </b> </li>
+  <li> 🌎 I live in Mendoza, Argentina </li>
   <li> 💭 I speak English (C1), Spanish (Native), Italian (B1) and French (A1) </li>
   <li> 💻 Working on <a href="https://github.com/checorazza/100-Python-Projects">100 Python Projects</li>
   <li> 💡Fun fact: I love learning languages—both spoken and programming! </li>
