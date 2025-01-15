@@ -31,9 +31,14 @@
   <a href="https://github.com/checorazza"><img title="Power BI" alt="powerbi" src="https://go-skill-icons.vercel.app/api/icons?i=pbi&titles=true"></a>
   <br>
 <div align=center>
-  <br> <br>
+    <br> <br>
   <h>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</p>
+    <h2>Stats</h2>
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=true&hide=prs,issues&show=prs_merged&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0D1117"></a>
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=Languages&langs_count=6&hide=dockerfile,javascript&size_weight=0.5&count_weight=0.5&bg_color=0D1117"></a> <br>
   <a href="https://www.github.com/checorazza"><img onerror='this.remove()' src="https://github-readme-streak-stats.herokuapp.com?user=checorazza&theme=react&hide_border=true&card_width=555&card_height=245&background=0D1117&ring=FFE55E&fire=FFE55E"/></a>
+     <br> <br>
+  <h>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</p>
+    <h2> Contributing on </h2>
+    <a href="https://github.com/eliasvelazquezdev/share-it-resources"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliasvelazquezdev&repo=share-it-resources&theme=react&hide_border=true"></a>
 </div>
