@@ -39,6 +39,6 @@
   <a href="https://www.github.com/checorazza"><img onerror='this.remove()' src="https://github-readme-streak-stats.herokuapp.com?user=checorazza&theme=react&hide_border=true&card_width=555&card_height=245&background=0D1117&ring=FFE55E&fire=FFE55E"/></a>
      <br> <br>
   <h>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</p>
-    <h2> Contributing on </h2>
+    <h2> Contributing to </h2>
     <a href="https://github.com/eliasvelazquezdev/share-it-resources"><img src="https://github-readme-stats.vercel.app/api/pin/?username=eliasvelazquezdev&repo=share-it-resources&theme=react&hide_border=true"></a>
 </div>
