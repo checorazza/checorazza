@@ -47,6 +47,7 @@
   <a href="https://github.com/checorazza"><img title="Slack" alt="slack" src="https://go-skill-icons.vercel.app/api/icons?i=slack&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="Jira" alt="jira" src="https://go-skill-icons.vercel.app/api/icons?i=jira&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="Wordpress" alt="wordpress" src="https://go-skill-icons.vercel.app/api/icons?i=wordpress&titles=true"></a>
+  <a href="https://github.com/checorazza"><img title="Bootstrap" alt="bootstrap" src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap&titles=true"></a>
 <div align=center>
     <br> <br>
   <h>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</p>
