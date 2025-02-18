@@ -28,13 +28,8 @@
   <a href="https://github.com/checorazza"> <img title="Django" alt="Django" src="https://go-skill-icons.vercel.app/api/icons?i=django&titles=true"></a>
   <a href="https://github.com/checorazza"> <img title="Pandas" alt="Pandas" src="https://go-skill-icons.vercel.app/api/icons?i=pandas&titles=true"></a>
   <a href="https://github.com/checorazza"> <img title="Numpy" alt="Numpy" src="https://go-skill-icons.vercel.app/api/icons?i=numpy&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="PostgreSQL" alt="PostgreSQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="MySQL" alt="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="HTML" alt="HTML" src="https://go-skill-icons.vercel.app/api/icons?i=html&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="CSS" alt="CSS" src="https://go-skill-icons.vercel.app/api/icons?i=css&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="Javascript" alt="Javascript" src="https://go-skill-icons.vercel.app/api/icons?i=javascript&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="Typescript" alt="Typescript" src="https://go-skill-icons.vercel.app/api/icons?i=typescript&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="React" alt="React" src="https://go-skill-icons.vercel.app/api/icons?i=react&titles=true"></a>
+  <a href="https://github.com/checorazza"><img title="MySQL" alt="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true"></a>
+  <a href="https://github.com/checorazza"><img title="PostgreSQL" alt="PostgreSQL" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&titles=true"></a>
   <br>
 
   <h3>Tools</h3>
@@ -46,8 +41,6 @@
   <a href="https://github.com/checorazza"><img title="Notion" alt="notion" src="https://go-skill-icons.vercel.app/api/icons?i=notion&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="Slack" alt="slack" src="https://go-skill-icons.vercel.app/api/icons?i=slack&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="Jira" alt="jira" src="https://go-skill-icons.vercel.app/api/icons?i=jira&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="Wordpress" alt="wordpress" src="https://go-skill-icons.vercel.app/api/icons?i=wordpress&titles=true"></a>
-  <a href="https://github.com/checorazza"><img title="Bootstrap" alt="bootstrap" src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap&titles=true"></a>
 <div align=center>
     <br> <br>
   <h>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</p>
