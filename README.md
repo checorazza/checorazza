@@ -30,6 +30,7 @@
   <a href="https://github.com/checorazza"> <img title="Numpy" alt="Numpy" src="https://go-skill-icons.vercel.app/api/icons?i=numpy&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="MySQL" alt="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="PostgreSQL" alt="PostgreSQL" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql&titles=true"></a>
+  <a href="https://github.com/checorazza"><img title="HTML, CSS, Javascript" alt="HTML, CSS, Javascript" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript&titles=true"></a>
   <br>
 
   <h3>Tools</h3>
@@ -41,6 +42,9 @@
   <a href="https://github.com/checorazza"><img title="Notion" alt="notion" src="https://go-skill-icons.vercel.app/api/icons?i=notion&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="Slack" alt="slack" src="https://go-skill-icons.vercel.app/api/icons?i=slack&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="Jira" alt="jira" src="https://go-skill-icons.vercel.app/api/icons?i=jira&titles=true"></a>
+
+  <h4>Learning</h4>
+  <a href="https://github.com/checorazza"><img title="React, Typescript" alt="react, typescript" src="https://go-skill-icons.vercel.app/api/icons?i=react,typescript&titles=true"></a>
 <div align=center>
     <br> <br>
   <h>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</p>
