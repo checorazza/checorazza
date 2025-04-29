@@ -26,6 +26,7 @@
 
   <h3>Skills</h3>
   <a href="https://github.com/checorazza"><img title="HTML, CSS, Javascript" alt="HTML, CSS, Javascript" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript&titles=true"></a>
+  <a href="https://github.com/search?q=owner%3Achecorazza%20language%3AJava%20&type=code"><img title="Java, Spring" alt="Java, Spring" src="https://go-skill-icons.vercel.app/api/icons?i=java,spring&titles=true"></a>
   <a href="https://github.com/search?q=user%3Achecorazza+language%3Apython&type=repositories"><img title="Python" alt="Python" src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="MySQL" alt="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true"></a>
   <br>
