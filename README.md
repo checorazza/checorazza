@@ -1,6 +1,6 @@
 <div align=center>
   <h1>  ⊹˚₊ Cecilia Corazza ₊˚⊹ <br>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.2rem&pause=1200&color=60D1FF&center=true&vCenter=true&width=555&height=20&lines=Data+Analyst;Systems+Engineer;Business+Analyst" alt="Software Engineer, Business Analyst" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.2rem&pause=1200&color=60D1FF&center=true&vCenter=true&width=555&height=20&lines=Software+Engineer;Business+Analyst" alt="Software Engineer, Business Analyst" />
     <br>
   <img src="https://komarev.com/ghpvc/?username=checorazza&color=248bb4&style=for-the-badge">
   </h1>
