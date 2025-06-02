@@ -31,6 +31,7 @@
   <a href="https://github.com/search?q=user%3Achecorazza+language%3Apython&type=repositories"><img title="Python" alt="Python" src="https://go-skill-icons.vercel.app/api/icons?i=python&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="Django" alt="django" src="https://go-skill-icons.vercel.app/api/icons?i=django&titles=true"></a>
   <a href="https://github.com/checorazza"><img title="MySQL" alt="MySQL" src="https://go-skill-icons.vercel.app/api/icons?i=mysql&titles=true"></a>
+  <a href="https://github.com/checorazza"><img title="ThreeJS" alt="threejs" src="https://go-skill-icons.vercel.app/api/icons?i=threejs&titles=true"></a>
   <br>
 
   <h3>Tools</h3>
