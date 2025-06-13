@@ -16,14 +16,14 @@
 </div>
 
 <p>
-<img height=35px src="https://img.shields.io/badge/HTML5-131b39?style=for-the-badge&logo=html5&logoColor=E34F26">
-<img height=35px src="https://img.shields.io/badge/CSS-131b39?style=for-the-badge&logo=CSS&logoColor=439af1">
-<img alt="JavaScript" height=35px src="https://img.shields.io/badge/JavaScript-131b39?style=for-the-badge&logo=javascript&logoColor=F7C922">
-<img alt="React" height=35px src="https://img.shields.io/badge/React-131b39?logo=react&logoColor=56ddef&style=for-the-badge"></a>
-<img alt="TypeScript" height=35px src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&style=for-the-badge">
-<img height=35px src="https://img.shields.io/badge/Python-131b39?style=for-the-badge&logo=python&logoColor=ffe633">
-<img alt="SQL" height=35px src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?style=for-the-badge&logo=database&logoColor=4d62b0">
-<img height=35px src="https://img.shields.io/badge/Tailwind_CSS-131b39?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
+<img height=30px src="https://img.shields.io/badge/HTML5-131b39?style=for-the-badge&logo=html5&logoColor=E34F26">
+<img height=30px src="https://img.shields.io/badge/CSS-131b39?style=for-the-badge&logo=CSS&logoColor=439af1">
+<img alt="JavaScript" height=30px src="https://img.shields.io/badge/JavaScript-131b39?style=for-the-badge&logo=javascript&logoColor=F7C922">
+<img alt="React" height=30px src="https://img.shields.io/badge/React-131b39?logo=react&logoColor=56ddef&style=for-the-badge"></a>
+<img alt="TypeScript" height=30px src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&style=for-the-badge">
+<img height=30px src="https://img.shields.io/badge/Python-131b39?style=for-the-badge&logo=python&logoColor=ffe633">
+<img alt="SQL" height=30px src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?style=for-the-badge&logo=database&logoColor=4d62b0">
+<img height=30px src="https://img.shields.io/badge/Tailwind_CSS-131b39?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
 </p>
 </div>
 
