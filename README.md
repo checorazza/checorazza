@@ -6,6 +6,8 @@
 </div>
 
 <div align=center>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=true&hide=issues&hide_rank=true&include_all_commits=true&custom_title=Stats&bg_color=0D1117"></a>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=Languages&langs_count=20&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117"></a> 
 <div id="toc">
   <ul style="list-style: none">
     <summary>
@@ -21,7 +23,7 @@
 <img alt="JavaScript" height=30px src="https://img.shields.io/badge/JavaScript-131b39?style=for-the-badge&logo=javascript&logoColor=F7C922">
 <img alt="React" height=30px src="https://img.shields.io/badge/React-131b39?logo=react&logoColor=56ddef&style=for-the-badge"></a>
 <img alt="TypeScript" height=30px src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&style=for-the-badge">
-<img height=30px src="https://img.shields.io/badge/Python-131b39?style=for-the-badge&logo=python&logoColor=ffe633">
+<img height=30px src="https://img.shields.io/badge/Python-131b39?style=for-the-badge&logo=python&logoColor=439af1">
 <img alt="SQL" height=30px src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?style=for-the-badge&logo=database&logoColor=4d62b0">
 <img height=30px src="https://img.shields.io/badge/Tailwind_CSS-131b39?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC">
 </p>
