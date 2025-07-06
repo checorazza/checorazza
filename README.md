@@ -18,15 +18,16 @@
 </div>
 
 <p>
-<img height=25px src="https://img.shields.io/badge/HTML5-131b39?&logo=html5&logoColor=E34F26">
-<img height=25px src="https://img.shields.io/badge/CSS-131b39?&logo=CSS&logoColor=439af1">
-<img alt="JavaScript" height=25px src="https://img.shields.io/badge/JavaScript-131b39?&logo=javascript&logoColor=F7C922">
-<img alt="React" height=25px src="https://img.shields.io/badge/React-131b39?logo=react&logoColor=56ddef&"></a>
-<img alt="TypeScript" height=25px src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&">
-<img alt="Java" height=25px src="https://custom-icon-badges.demolab.com/badge/Java-131b39?logo=java&logoColor=FF9800"></a>
-<img height=25px src="https://img.shields.io/badge/Python-131b39?&logo=python&logoColor=439af1">
-<img alt="SQL" height=25px src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?&logo=database&logoColor=4d62b0">
-<img height=25px src="https://img.shields.io/badge/Tailwind_CSS-131b39?&logo=tailwind-css&logoColor=38B2AC">
+<img height=20px src="https://img.shields.io/badge/HTML5-131b39?&logo=html5&logoColor=E34F26">
+<img height=20px src="https://img.shields.io/badge/CSS-131b39?&logo=CSS&logoColor=439af1">
+<img alt="JavaScript" height=20px src="https://img.shields.io/badge/JavaScript-131b39?&logo=javascript&logoColor=F7C922">
+<img alt="React" height=20px src="https://img.shields.io/badge/React-131b39?logo=react&logoColor=56ddef&"></a>
+<img alt="TypeScript" height=20px src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&">
+<img alt="Java" height=20px src="https://custom-icon-badges.demolab.com/badge/Java-131b39?logo=java&logoColor=FF9800"></a>
+<img alt= "Spring Boot" height=20px src="https://img.shields.io/badge/Spring_Boot-131b39?&logo=spring-boot&logoColor=6DB33F">
+<!-- <img height=20px src="https://img.shields.io/badge/Python-131b39?&logo=python&logoColor=439af1"> -->
+<img alt="SQL" height=20px src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?&logo=database&logoColor=4d62b0">
+<img height=20px src="https://img.shields.io/badge/Tailwind_CSS-131b39?&logo=tailwind-css&logoColor=38B2AC">
 </p>
 </div>
 
