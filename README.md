@@ -6,7 +6,7 @@
 </div>
 
 <div align=center>
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=true&hide=issues&hide_rank=true&include_all_commits=true&custom_title=Stats&bg_color=0D1117"></a>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=true&hide=issues&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0D1117"></a>
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=Languages&langs_count=20&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117"></a> 
 <div id="toc">
   <ul style="list-style: none">
@@ -25,7 +25,7 @@
 <img alt="TypeScript" height=20px src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&">
 <img alt="Java" height=20px src="https://custom-icon-badges.demolab.com/badge/Java-131b39?logo=java&logoColor=FF9800"></a>
 <img alt= "Spring Boot" height=20px src="https://img.shields.io/badge/Spring_Boot-131b39?&logo=spring-boot&logoColor=6DB33F">
-<!-- <img height=20px src="https://img.shields.io/badge/Python-131b39?&logo=python&logoColor=439af1"> -->
+<img height=20px src="https://img.shields.io/badge/Python-131b39?&logo=python&logoColor=439af1">
 <img alt="SQL" height=20px src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?&logo=database&logoColor=4d62b0">
 <img height=20px src="https://img.shields.io/badge/Tailwind_CSS-131b39?&logo=tailwind-css&logoColor=38B2AC">
 </p>
