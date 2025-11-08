@@ -14,15 +14,17 @@
 Argentinian 🇦🇷 Full-Stack Engineer with a background in Functional Analysis, UX/UI Design. <br>
 Passionate programming professor and language learner (both spoken and programming!) <br> <br>
 
-<img src="https://img.shields.io/badge/C1-7093FF?&label=English&labelColor=131b39&style=for-the-badge">
-<img src="https://img.shields.io/badge/Native-7093FF?&label=Spanish&labelColor=131b39&style=for-the-badge">
-<img src="https://img.shields.io/badge/B1-7093FF?&label=Italian&labelColor=131b39&style=for-the-badge">
-<img src="https://img.shields.io/badge/A1-7093FF?&label=French&labelColor=131b39&style=for-the-badge">
+<img src="https://img.shields.io/badge/C1-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
+<img src="https://img.shields.io/badge/Native-5A82F0?&label=Spanish&labelColor=131b39&style=for-the-badge">
+<img src="https://img.shields.io/badge/B1-5A82F0?&label=Italian&labelColor=131b39&style=for-the-badge">
+<img src="https://img.shields.io/badge/A1-5A82F0?&label=French&labelColor=131b39&style=for-the-badge">
 
   
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=true&hide=issues&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0D1117"></a>
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117"></a> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=checorazza&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=checorazza&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%"/>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=checorazza&theme=react&background=0D1117&hide_border=false&border=61DAFB">
+
 <div id="toc">
   <ul style="list-style: none">
     <summary>
