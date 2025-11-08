@@ -22,6 +22,7 @@ Passionate programming professor and language learner (both spoken and programmi
   
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=true&hide=issues&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0D1117"></a>
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=Languages&langs_count=20&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117"></a> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=checorazza&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%"/>
 <div id="toc">
   <ul style="list-style: none">
     <summary>
