@@ -1,7 +1,7 @@
 <div align=center>
-  <h1>  ⊹˚₊ Cecilia Corazza ₊˚⊹ <br>
+<img src="https://github.com/user-attachments/assets/9b2557f3-42d0-4612-8702-58eef2257a47">
+  <br>
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.2rem&pause=1200&color=60D1FF&center=true&vCenter=true&width=555&height=20&lines=Software+Engineer;Full-Stack+Developer" alt="Software Engineer, Full-Stack Developer" />
-  </h1>
 
 </div>
 
