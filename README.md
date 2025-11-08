@@ -33,18 +33,18 @@ Passionate programming professor and language learner (both spoken and programmi
 </div>
 
 <p>
-<img height=100px src="https://img.shields.io/badge/HTML5-131b39?&logo=html5&logoColor=E34F26&style=for-the-badge">
-<img height=100px src="https://img.shields.io/badge/CSS-131b39?&logo=CSS&logoColor=439af1&style=for-the-badge">
-<img alt="JavaScript" height=100px src="https://img.shields.io/badge/JavaScript-131b39?&logo=javascript&logoColor=F7C922&style=for-the-badge">
-<img alt="React" height=100px src="https://img.shields.io/badge/React-131b39?logo=react&logoColor=56ddef&style=for-the-badge"></a>
-<img alt="TypeScript" height=100px src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&style=for-the-badge">
-<img alt="Java" height=100px src="https://custom-icon-badges.demolab.com/badge/Java-131b39?logo=java&logoColor=FF9800&style=for-the-badge">
-<img alt= "Spring Boot" height=100px src="https://img.shields.io/badge/Spring_Boot-131b39?&logo=spring-boot&logoColor=6DB33F&style=for-the-badge">
-<img height=100px src="https://img.shields.io/badge/Python-131b39?&logo=python&logoColor=F7C922&style=for-the-badge">
-<img alt="SQL" height=100px src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?&logo=database&logoColor=4d62b0&style=for-the-badge">
-<img height=100px src="https://img.shields.io/badge/Tailwind_CSS-131b39?&logo=tailwind-css&logoColor=38B2AC&style=for-the-badge">
-<img height=100px src="https://img.shields.io/badge/UML-131b39?&logo=uml&logoColor=FB844A&style=for-the-badge">
-<img height=100px src="https://img.shields.io/badge/Figma-131b39?&logo=figma&logoColor=FB3939&style=for-the-badge">
+<img  src="https://img.shields.io/badge/HTML5-131b39?&logo=html5&logoColor=E34F26&style=for-the-badge">
+<img  src="https://img.shields.io/badge/CSS-131b39?&logo=CSS&logoColor=439af1&style=for-the-badge">
+<img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-131b39?&logo=javascript&logoColor=F7C922&style=for-the-badge">
+<img alt="React"  src="https://img.shields.io/badge/React-131b39?logo=react&logoColor=56ddef&style=for-the-badge"></a>
+<img alt="TypeScript"  src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&style=for-the-badge">
+<img alt="Java"  src="https://custom-icon-badges.demolab.com/badge/Java-131b39?logo=java&logoColor=FF9800&style=for-the-badge">
+<img alt= "Spring Boot"  src="https://img.shields.io/badge/Spring_Boot-131b39?&logo=spring-boot&logoColor=6DB33F&style=for-the-badge">
+<img  src="https://img.shields.io/badge/Python-131b39?&logo=python&logoColor=F7C922&style=for-the-badge">
+<img alt="SQL"  src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?&logo=database&logoColor=4d62b0&style=for-the-badge">
+<img  src="https://img.shields.io/badge/Tailwind_CSS-131b39?&logo=tailwind-css&logoColor=38B2AC&style=for-the-badge">
+<img  src="https://img.shields.io/badge/UML-131b39?&logo=uml&logoColor=FB844A&style=for-the-badge">
+<img  src="https://img.shields.io/badge/Figma-131b39?&logo=figma&logoColor=FB3939&style=for-the-badge">
 </p>
 
 
