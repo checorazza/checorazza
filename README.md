@@ -1,7 +1,7 @@
 <div align=center>
   <img width="1834" height="200" alt="github banner" src="https://github.com/user-attachments/assets/3b71d776-5325-4c64-95b6-0fbd1a17796f" />
   <br>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.2rem&pause=1200&color=60D1FF&center=true&vCenter=true&width=555&height=20&lines=Software+Engineer;Full-Stack+Developer" alt="Software Engineer, Full-Stack Developer" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.2rem&duration=3000&pause=1400&color=60D1FF&center=true&vCenter=true&width=555&height=20&lines=Software+Engineer;Full-Stack+Developer" alt="Software Engineer, Full-Stack Developer" />
  <br> 
 <div id="toc">
   <ul style="list-style: none">
