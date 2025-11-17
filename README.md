@@ -56,6 +56,7 @@ Passionate programming professor and language learner (both spoken and programmi
       <h2>Let's Connect!</h2> <br> 
       <a href=https://www.linkedin.com/in/corazzacecilia/><img height=40px alt="LinkedIn" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true"></a>
 <a href=mailto:mceciliacorazza@gmail.com><img height=40px alt="E-mail" src="https://go-skill-icons.vercel.app/api/icons?i=gmail&titles=true"></a>
+            <a href="http://www.behance.net/checorazza"><img height=40px src="https://go-skill-icons.vercel.app/api/icons?i=behance&titles=true"/></a>
 <a href=https://www.x.com/checorazza/><img height=40px alt="Twitter / X" src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img height=40px src="https://go-skill-icons.vercel.app/api/icons?i=youtube&titles=true"/></a>
     </summary>
