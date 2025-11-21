@@ -3,14 +3,7 @@
   <br>
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.2rem&duration=3000&pause=1400&color=60D1FF&center=true&vCenter=true&width=555&height=20&lines=Software+Engineer;Full-Stack+Developer" alt="Software Engineer, Full-Stack Developer" />
  <br> 
-<div id="toc">
-  <ul style="list-style: none">
-    <summary>
-      <h1>About Me</h1>
-    </summary>
-    ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
-  </ul>
-</div>
+    ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━ <br> <br>
 Argentinian 🇦🇷 Full-Stack Engineer with a background in Functional Analysis, UX/UI Design. <br>
 Passionate programming professor and language learner (both spoken and programming!) <br> <br>
 
