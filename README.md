@@ -20,8 +20,9 @@ Passionate programming professor and language learner (both spoken and programmi
 <img src="https://img.shields.io/badge/A1-5A82F0?&label=French&labelColor=131b39&style=for-the-badge">
 
   
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=true&hide=issues&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0D1117"></a>
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117"></a> 
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=false&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0D1117&border_color=61DAFB"></a> <br>
+  <a href="https://www.github.com/checorazza"><img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=FrontEnd&langs_count=8&hide=css,java,python,dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117&hide_border=false&border_color=61DAFB"></a> 
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=BackEnd&langs_count=8&hide=html,css,javascript,typescript&size_weight=0.5&count_weight=0.5&bg_color=0D1117&hide_border=false&border_color=61DAFB"></a> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=checorazza&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%"/>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=checorazza&theme=react&background=0D1117&hide_border=false&border=61DAFB">
 
@@ -35,18 +36,18 @@ Passionate programming professor and language learner (both spoken and programmi
 </div>
 
 <p>
-<img  src="https://img.shields.io/badge/HTML5-131b39?&logo=html5&logoColor=E34F26&style=for-the-badge">
-<img  src="https://img.shields.io/badge/CSS-131b39?&logo=CSS&logoColor=439af1&style=for-the-badge">
-<img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-131b39?&logo=javascript&logoColor=F7C922&style=for-the-badge">
-<img alt="React"  src="https://img.shields.io/badge/React-131b39?logo=react&logoColor=56ddef&style=for-the-badge"></a>
-<img alt="TypeScript"  src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&style=for-the-badge">
-<img alt="Java"  src="https://custom-icon-badges.demolab.com/badge/Java-131b39?logo=java&logoColor=FF9800&style=for-the-badge">
-<img alt= "Spring Boot"  src="https://img.shields.io/badge/Spring_Boot-131b39?&logo=spring-boot&logoColor=6DB33F&style=for-the-badge">
-<img  src="https://img.shields.io/badge/Python-131b39?&logo=python&logoColor=F7C922&style=for-the-badge">
-<img alt="SQL"  src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?&logo=database&logoColor=4d62b0&style=for-the-badge">
-<img  src="https://img.shields.io/badge/Tailwind_CSS-131b39?&logo=tailwind-css&logoColor=38B2AC&style=for-the-badge">
-<img  src="https://img.shields.io/badge/UML-131b39?&logo=uml&logoColor=FB844A&style=for-the-badge">
-<img  src="https://img.shields.io/badge/Figma-131b39?&logo=figma&logoColor=FB3939&style=for-the-badge">
+<a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/HTML5-131b39?&logo=html5&logoColor=E34F26&style=for-the-badge"> </a>
+<a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/CSS-131b39?&logo=CSS&logoColor=439af1&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-131b39?&logo=javascript&logoColor=F7C922&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img alt="React"  src="https://img.shields.io/badge/React-131b39?logo=react&logoColor=56ddef&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img alt="TypeScript"  src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img alt="Java"  src="https://custom-icon-badges.demolab.com/badge/Java-131b39?logo=java&logoColor=FF9800&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img alt= "Spring Boot"  src="https://img.shields.io/badge/Spring_Boot-131b39?&logo=spring-boot&logoColor=6DB33F&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/Python-131b39?&logo=python&logoColor=F7C922&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img alt="SQL"  src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?&logo=database&logoColor=4d62b0&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/Tailwind_CSS-131b39?&logo=tailwind-css&logoColor=38B2AC&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/UML-131b39?&logo=uml&logoColor=FB844A&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/Figma-131b39?&logo=figma&logoColor=FB3939&style=for-the-badge"></a>
 </p>
 
 
