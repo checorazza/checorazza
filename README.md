@@ -11,9 +11,10 @@ Passionate programming professor and language learner (both spoken and programmi
 <img src="https://img.shields.io/badge/Native-5A82F0?&label=Spanish&labelColor=131b39&style=for-the-badge">
 <img src="https://img.shields.io/badge/B1-5A82F0?&label=Italian&labelColor=131b39&style=for-the-badge">
 <img src="https://img.shields.io/badge/A1-5A82F0?&label=French&labelColor=131b39&style=for-the-badge">
-
-  
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=false&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0D1117&border_color=61DAFB"></a> <br>
+<br> <br>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide=issues,stars&hide_border=false&hide_rank=true&include_all_commits=true&custom_title=Stats&bg_color=0D1117&border_color=61DAFB"></a> 
+  <img width="304" height="145" alt="snoopy" src="https://github.com/user-attachments/assets/b4f298af-6710-4246-ad27-9eb9d1036e3a" />
+  <br>
   <a href="https://www.github.com/checorazza"><img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=FrontEnd&langs_count=8&hide=css,java,python,dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117&hide_border=false&border_color=61DAFB"></a> 
   <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=BackEnd&langs_count=8&hide=html,css,javascript,typescript&size_weight=0.5&count_weight=0.5&bg_color=0D1117&hide_border=false&border_color=61DAFB"></a> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=checorazza&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%"/>
