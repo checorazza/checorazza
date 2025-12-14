@@ -30,7 +30,7 @@ Passionate programming professor and language learner (both spoken and programmi
 </div>
 
 <p>
-<a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/HTML5-131b39?&logo=html5&logoColor=E34F26&style=for-the-badge"> </a>
+<a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/HTML5-131b39?&logo=html5&logoColor=E34F26&style=for-the-badge"></a>
 <a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/CSS-131b39?&logo=CSS&logoColor=439af1&style=for-the-badge"></a>
 <a href="https://github.com/checorazza"><img alt="JavaScript"  src="https://img.shields.io/badge/JavaScript-131b39?&logo=javascript&logoColor=F7C922&style=for-the-badge"></a>
 <a href="https://github.com/checorazza"><img alt="React"  src="https://img.shields.io/badge/React-131b39?logo=react&logoColor=56ddef&style=for-the-badge"></a>
