@@ -4,20 +4,18 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&letterSpacing=0.2rem&duration=3000&pause=1400&color=60D1FF&center=true&vCenter=true&width=555&height=20&lines=Software+Engineer;Full-Stack+Developer" alt="Software Engineer, Full-Stack Developer" />
  <br> 
     ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━ <br> <br>
-Argentinian 🇦🇷 Full-Stack Engineer with a background in Functional Analysis, UX/UI Design. <br>
-Passionate programming professor and language learner (both spoken and programming!) <br> <br>
+Argentinian 🇦🇷 Full-Stack Engineer with a background in Functional Analysis and UX/UI Design. <br>
+  <br>
 
 <img src="https://img.shields.io/badge/C1-5A82F0?&label=English&labelColor=131b39&style=for-the-badge">
 <img src="https://img.shields.io/badge/Native-5A82F0?&label=Spanish&labelColor=131b39&style=for-the-badge">
 <img src="https://img.shields.io/badge/B1-5A82F0?&label=Italian&labelColor=131b39&style=for-the-badge">
 <img src="https://img.shields.io/badge/A1-5A82F0?&label=French&labelColor=131b39&style=for-the-badge">
 <br> <br>
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=false&hide_rank=true&include_all_commits=true&custom_title=Stats&bg_color=0D1117&border_color=61DAFB"></a>
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=checorazza&theme=react&background=0D1117&hide_border=false&border=61DAFB&hide_total_contributions=true&card_width=304">
-  <br>
-  <a href="https://www.github.com/checorazza"><img style="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=FrontEnd&langs_count=8&hide=css,java,python,dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117&hide_border=false&border_color=61DAFB"></a> 
-  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=BackEnd&langs_count=8&hide=html,css,javascript,typescript&size_weight=0.5&count_weight=0.5&bg_color=0D1117&hide_border=false&border_color=61DAFB"></a> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=checorazza&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB&custom_title=Contribution%20Graph" alt="Contribution Graph" width="90%"/>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats-fast.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=false&hide_rank=true&include_all_commits=true&custom_title=Stats&bg_color=0D1117&border_color=61DAFB"></a>
+  <a href="https://www.github.com/checorazza"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=true&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0D1117&hide_border=false&border_color=61DAFB"></a> 
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=checorazza&theme=react&bg_color=0D1117&color=61DAFB&line=4899DB&point=61DAFB&area=true&hide_border=false&border_color=61DAFB&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
   
 
 <div id="toc">
