@@ -55,6 +55,8 @@ Argentinian 🇦🇷 Full-Stack Engineer with a background in Functional Analysi
     </summary>
   </ul>
 </div>
+
+<img src ="https://github-readme-stats-fast.vercel.app/api/streak?username=checorazza&theme=github_dark">
 <h1></h1>
 <div align=right>
    <img height=25px src="https://komarev.com/ghpvc/?username=checorazza&color=248bb4&style=for-the-badge">
