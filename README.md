@@ -40,6 +40,8 @@ Argentinian 🇦🇷 Full-Stack Engineer with a background in Functional Analysi
 <a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/Tailwind_CSS-131b39?&logo=tailwind-css&logoColor=38B2AC&style=for-the-badge"></a>
 <a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/UML-131b39?&logo=uml&logoColor=FB844A&style=for-the-badge"></a>
 <a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/Figma-131b39?&logo=figma&logoColor=FB3939&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/OpenCV-131b39?&logo=opencv&logoColor=FB3939&style=for-the-badge"></a>
+  <a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/ThreeJS-131b39?&logo=three.js&logoColor=FFFFFF&style=for-the-badge"></a>
 </p>
 
 
