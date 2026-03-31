@@ -54,6 +54,7 @@ Argentinian 🇦🇷 Full-Stack Engineer with a background in Functional Analysi
             <a href="http://www.behance.net/checorazza"><img height=40px src="https://go-skill-icons.vercel.app/api/icons?i=behance&titles=true"/></a>
 <a href=https://www.x.com/checorazza/><img height=40px alt="Twitter / X" src="https://go-skill-icons.vercel.app/api/icons?i=x&titles=true"></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img height=40px src="https://go-skill-icons.vercel.app/api/icons?i=youtube&titles=true"/></a>
+      <a href="https://instagram.com/checodes.ok"><img height=40px src="https://go-skill-icons.vercel.app/api/icons?i=instagram&titles=true"/></a>
     </summary>
   </ul>
 </div>
