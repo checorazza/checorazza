@@ -35,7 +35,8 @@ Argentinian 🇦🇷 Full-Stack Engineer with a background in Functional Analysi
 <a href="https://github.com/checorazza"><img alt="TypeScript"  src="https://img.shields.io/badge/TypeScript-131b39?logo=typescript&logoColor=007ACC&style=for-the-badge"></a>
 <a href="https://github.com/checorazza"><img alt="Java"  src="https://custom-icon-badges.demolab.com/badge/Java-131b39?logo=java&logoColor=FF9800&style=for-the-badge"></a>
 <a href="https://github.com/checorazza"><img alt= "Spring Boot"  src="https://img.shields.io/badge/Spring_Boot-131b39?&logo=spring-boot&logoColor=6DB33F&style=for-the-badge"></a>
-<a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/Python-131b39?&logo=python&logoColor=F7C922&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img alt= "Python" src="https://img.shields.io/badge/Python-131b39?&logo=python&logoColor=F7C922&style=for-the-badge"></a>
+<a href="https://github.com/checorazza"><img alt= "Flask" src="https://img.shields.io/badge/Flask-131b39?&logo=flask&logoColor=56ddef&style=for-the-badge"></a>
 <a href="https://github.com/checorazza"><img alt="SQL"  src="https://custom-icon-badges.demolab.com/badge/SQL-131b39?&logo=database&logoColor=4d62b0&style=for-the-badge"></a>
 <a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/Tailwind_CSS-131b39?&logo=tailwind-css&logoColor=38B2AC&style=for-the-badge"></a>
 <a href="https://github.com/checorazza"><img  src="https://img.shields.io/badge/UML-131b39?&logo=uml&logoColor=FB844A&style=for-the-badge"></a>
