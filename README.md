@@ -28,10 +28,10 @@ Argentinian 🇦🇷 Full-Stack Engineer with a background in Functional Analysi
   <ul style="list-style: none">
     <summary>
       <h2>Let's Connect!</h2> <br> 
-      <a href=https://www.linkedin.com/in/corazzacecilia/><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff&style=for-the-badge"></a>
-<a href=mailto:mceciliacorazza@gmail.com><img alt="E-mail" src="https://img.shields.io/badge/Gmail-E0281B?logo=gmail&logoColor=white&style=for-the-badge"></a>
-            <a href="http://www.behance.net/checorazza"><img src="https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white&style=for-the-badge"/></a>
-      <a href=https://codigoacolor.substack.com> <img src="https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff&style=for-the-badge"/></a>
+      <a href=https://www.linkedin.com/in/corazzacecilia/><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-131b39?logo=linkedin-white&logoColor=5A82F0&style=for-the-badge"></a>
+<a href=mailto:mceciliacorazza@gmail.com><img alt="E-mail" src="https://img.shields.io/badge/Gmail-131b39?logo=gmail&logoColor=5A82F0&style=for-the-badge"></a>
+            <a href="http://www.behance.net/checorazza"><img src="https://img.shields.io/badge/Behance-131b39?logo=behance&logoColor=5A82F0&style=for-the-badge"/></a>
+      <a href=https://codigoacolor.substack.com> <img src="https://img.shields.io/badge/Substack-131b39?logo=substack&logoColor=5A82F0&style=for-the-badge"/></a>
     </summary>
   </ul>
 </div>
