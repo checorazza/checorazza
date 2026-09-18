@@ -29,9 +29,7 @@ Argentinian 🇦🇷 Full-Stack Engineer with a background in Functional Analysi
     <summary>
       <h2>Let's Connect!</h2> <br> 
       <a href=https://www.linkedin.com/in/corazzacecilia/><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-3B96D1?logo=linkedin-white&logoColor=fff&style=for-the-badge"></a>
-<a href=mailto:mceciliacorazza@gmail.com><img alt="E-mail" src="https://img.shields.io/badge/Gmail-3B96D1?logo=gmail&logoColor=fff&style=for-the-badge"></a>
-            <a href="http://www.behance.net/checorazza"><img src="https://img.shields.io/badge/Behance-3B96D1?logo=behance&logoColor=fff&style=for-the-badge"/></a>
-      <a href=https://codigoacolor.substack.com> <img src="https://img.shields.io/badge/Substack-3B96D1?logo=substack&logoColor=fff&style=for-the-badge"/></a>
+      <a href="http://www.behance.net/checorazza"><img src="https://img.shields.io/badge/Behance-3B96D1?logo=behance&logoColor=fff&style=for-the-badge"/></a>
     </summary>
   </ul>
 </div>
