@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 270" width="900" height="270" role="img" aria-label="Terminal whoami de checorazza">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0F2438"/>
+      <stop offset="1" stop-color="#0B1B2B"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="270" rx="14" fill="url(#bg)"/>
+  <rect x="1" y="1" width="898" height="268" rx="13" fill="none" stroke="#7DD3FC" stroke-opacity="0.45"/>
+  <rect width="900" height="38" rx="14" fill="#12304A"/>
+  <rect y="24" width="900" height="14" fill="#12304A"/>
+  <circle cx="28" cy="19" r="6" fill="#38BDF8"/>
+  <circle cx="50" cy="19" r="6" fill="#7DD3FC"/>
+  <circle cx="72" cy="19" r="6" fill="#E0F2FE"/>
+  <text x="450" y="24" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="13" fill="#7DD3FC">checorazza@github: ~</text>
+  <g font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="17">
+    <text x="32" y="80"><tspan fill="#38BDF8">checorazza:~$</tspan><tspan fill="#E0F2FE"> whoami</tspan></text>
+    <text x="32" y="116"><tspan fill="#7DD3FC">role</tspan><tspan fill="#E0F2FE">:         Full-Stack Engineer</tspan></text>
+    <text x="32" y="144"><tspan fill="#7DD3FC">origin</tspan><tspan fill="#E0F2FE">:       Argentina 🇦🇷</tspan></text>
+    <text x="32" y="172"><tspan fill="#7DD3FC">background</tspan><tspan fill="#E0F2FE">:   Functional Analysis · UX/UI Design</tspan></text>
+    <text x="32" y="200"><tspan fill="#7DD3FC">languages</tspan><tspan fill="#E0F2FE">:    Spanish (native) · English C1 · Italian B1 · French A1</tspan></text>
+    <text x="32" y="240"><tspan fill="#38BDF8">checorazza:~$</tspan><tspan fill="#E0F2FE"> </tspan><tspan fill="#7DD3FC">█</tspan>
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
