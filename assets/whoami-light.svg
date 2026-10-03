@@ -18,16 +18,16 @@
     <text x="28" y="78" fill="#0284C7">checorazza:~$<tspan fill="#0B2A43"> whoami</tspan></text>
 
     <text x="28" y="122" fill="#0369A1">name</text>
-    <text x="160" y="122" fill="#0B2A43">Checo</text>
+    <text x="160" y="122" fill="#0B2A43">checo</text>
 
     <text x="28" y="158" fill="#0369A1">role</text>
-    <text x="160" y="158" fill="#0B2A43">Full-Stack Engineer</text>
+    <text x="160" y="158" fill="#0B2A43">full-stack engineer</text>
 
     <text x="28" y="194" fill="#0369A1">origin</text>
-    <text x="160" y="194" fill="#0B2A43">Mendoza, Argentina 🇦🇷</text>
+    <text x="160" y="194" fill="#0B2A43">Mendoza, Argentina</text>
 
     <text x="28" y="230" fill="#0369A1">studying</text>
-    <text x="160" y="230" fill="#0B2A43">Software Engineering</text>
+    <text x="160" y="230" fill="#0B2A43">software engineering</text>
 
     <text x="28" y="266" fill="#0369A1">interests</text>
     <text x="160" y="266" fill="#0B2A43">AI/ML · open source</text>

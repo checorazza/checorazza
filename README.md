@@ -65,6 +65,9 @@
     <img src="https://github-readme-stats-fast.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=false&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0B1B2B&border_color=7DD3FC&title_color=7DD3FC&icon_color=38BDF8&text_color=E0F2FE" alt="Stats" />
   </picture>
 </a>
+
+<div align="center">
+
 <a href="https://www.github.com/checorazza">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=false&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=E0F2FE&border_color=38BDF8&title_color=0369A1&text_color=0B2A43">
@@ -81,8 +84,6 @@
 
 </div>
 
-
-<div align="center">
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-38BDF8?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/corazzacecilia/)
 [![Behance](https://img.shields.io/badge/Behance-7DD3FC?logo=behance&logoColor=0B1B2B&style=for-the-badge)](http://www.behance.net/checorazza)
