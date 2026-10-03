@@ -60,25 +60,10 @@
 </pre>
 
 <div align=center>
-<a href="https://www.github.com/checorazza">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=false&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=E0F2FE&border_color=38BDF8&title_color=0369A1&icon_color=0284C7&text_color=0B2A43">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=false&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0B1B2B&border_color=7DD3FC&title_color=7DD3FC&icon_color=38BDF8&text_color=E0F2FE" alt="Stats" />
-  </picture>
-</a>
-<a href="https://www.github.com/checorazza">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=false&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=E0F2FE&border_color=38BDF8&title_color=0369A1&text_color=0B2A43">
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=false&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0B1B2B&border_color=7DD3FC&title_color=7DD3FC&text_color=E0F2FE" alt="Top Languages" />
-  </picture>
-</a>
+<a href="https://www.github.com/checorazza"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=false&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=E0F2FE&border_color=38BDF8&title_color=0369A1&icon_color=0284C7&text_color=0B2A43"><img src="https://github-readme-stats-fast.vercel.app/api?username=checorazza&show_icons=true&theme=react&hide_border=false&hide_rank=false&include_all_commits=true&custom_title=Stats&bg_color=0B1B2B&border_color=7DD3FC&title_color=7DD3FC&icon_color=38BDF8&text_color=E0F2FE" alt="Stats" /></picture></a>
+<a href="https://www.github.com/checorazza"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=false&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=E0F2FE&border_color=38BDF8&title_color=0369A1&text_color=0B2A43"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=checorazza&theme=react&hide_border=false&count_private=true&layout=compact&custom_title=Languages&langs_count=8&hide=dockerfile&size_weight=0.5&count_weight=0.5&bg_color=0B1B2B&border_color=7DD3FC&title_color=7DD3FC&text_color=E0F2FE" alt="Top Languages" /></picture></a>
 
-<a href="https://git.io/streak-stats">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=checorazza&theme=react&hide_border=true&background=E0F2FE&ring=0284C7&fire=0EA5E9&currStreakNum=0B2A43&sideNums=0B2A43&currStreakLabel=0369A1&sideLabels=0369A1&dates=0369A1">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=checorazza&theme=react&hide_border=true&background=0B1B2B&ring=38BDF8&fire=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=7DD3FC" alt="GitHub Streak" />
-  </picture>
-</a>
+<a href="https://git.io/streak-stats"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=checorazza&theme=react&hide_border=true&background=E0F2FE&ring=0284C7&fire=0EA5E9&currStreakNum=0B2A43&sideNums=0B2A43&currStreakLabel=0369A1&sideLabels=0369A1&dates=0369A1"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=checorazza&theme=react&hide_border=true&background=0B1B2B&ring=38BDF8&fire=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=7DD3FC" alt="GitHub Streak" /></picture></a>
 
 </div>
 <div align=center>
@@ -100,14 +85,6 @@
 </div>
 
 <div align=right>
-<a href="https://github.com/checorazza">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://hits.sh/github.com/checorazza.svg?style=for-the-badge&label=Profile+views&color=BAE6FD&labelColor=0369A1">
-    <img src="https://hits.sh/github.com/checorazza.svg?style=for-the-badge&label=Profile+views&color=38BDF8&labelColor=0B1B2B" alt="Profile views" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/checorazza?label=Followers&style=for-the-badge&color=BAE6FD&labelColor=0369A1">
-    <img src="https://img.shields.io/github/followers/checorazza?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0B1B2B" alt="Followers" />
-  </picture>
-</a>
+<a href="https://github.com/checorazza"><picture><source media="(prefers-color-scheme: light)" srcset="https://hits.sh/github.com/checorazza.svg?style=for-the-badge&label=Profile+views&color=BAE6FD&labelColor=0369A1"><img src="https://hits.sh/github.com/checorazza.svg?style=for-the-badge&label=Profile+views&color=38BDF8&labelColor=0B1B2B" alt="Profile views" /></picture></a>
+<a href="https://github.com/checorazza?tab=followers"><picture><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/checorazza?label=Followers&style=for-the-badge&color=BAE6FD&labelColor=0369A1"><img src="https://img.shields.io/github/followers/checorazza?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0B1B2B" alt="Followers" /></picture></a>
 </div>
