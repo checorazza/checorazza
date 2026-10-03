@@ -105,8 +105,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://hits.sh/github.com/checorazza.svg?style=for-the-badge&label=Profile+views&color=BAE6FD&labelColor=0369A1">
     <img src="https://hits.sh/github.com/checorazza.svg?style=for-the-badge&label=Profile+views&color=38BDF8&labelColor=0B1B2B" alt="Profile views" />
   </picture>
-</a>
-<a href="https://github.com/checorazza?tab=followers">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/followers/checorazza?label=Followers&style=for-the-badge&color=BAE6FD&labelColor=0369A1">
     <img src="https://img.shields.io/github/followers/checorazza?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0B1B2B" alt="Followers" />
