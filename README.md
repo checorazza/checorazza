@@ -82,17 +82,19 @@
 
 </div>
 <div align=center>
+<div align="center">
+<div id="toc">
+  <ul style="list-style: none">
+    <summary>
+      <h2>Let's Connect!</h2>
+    </summary>
+    ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
+  </ul>
+</div>
+</div>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-38BDF8?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/corazzacecilia/)
 [![Behance](https://img.shields.io/badge/Behance-7DD3FC?logo=behance&logoColor=0B1B2B&style=for-the-badge)](http://www.behance.net/checorazza)
 
-<sub>━━━━━━━━ ☆ ★ ☆ ━━━━━━━━</sub>
-
-</div>
-
-<div align=right>
-
-[![Profile views](https://komarev.com/ghpvc/?username=checorazza&color=7DD3FC&style=for-the-badge)](https://github.com/checorazza)
-[![Followers](https://img.shields.io/github/followers/checorazza?label=Followers&style=for-the-badge&color=38BDF8&labelColor=0B1B2B)](https://github.com/checorazza?tab=followers)
-
+<sub>Made in Argentina with lots of love and coffee. </sub>
 </div>
