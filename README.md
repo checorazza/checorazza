@@ -81,7 +81,7 @@
 </a>
 
 </div>
-
+<div align=center>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-38BDF8?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/corazzacecilia/)
 [![Behance](https://img.shields.io/badge/Behance-7DD3FC?logo=behance&logoColor=0B1B2B&style=for-the-badge)](http://www.behance.net/checorazza)
