@@ -14,10 +14,22 @@
   </picture>
 </a>
 
-[![English](https://img.shields.io/badge/C1-7DD3FC?&label=English&labelColor=0B1B2B&style=for-the-badge)](#)
-[![Spanish](https://img.shields.io/badge/Native-7DD3FC?&label=Spanish&labelColor=0B1B2B&style=for-the-badge)](#)
-[![Italian](https://img.shields.io/badge/B1-7DD3FC?&label=Italian&labelColor=0B1B2B&style=for-the-badge)](#)
-[![French](https://img.shields.io/badge/A1-7DD3FC?&label=French&labelColor=0B1B2B&style=for-the-badge)](#)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C1-BAE6FD?&label=English&labelColor=0369A1&style=for-the-badge">
+  <img src="https://img.shields.io/badge/C1-7DD3FC?&label=English&labelColor=0B1B2B&style=for-the-badge" alt="English C1" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Native-BAE6FD?&label=Spanish&labelColor=0369A1&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Native-7DD3FC?&label=Spanish&labelColor=0B1B2B&style=for-the-badge" alt="Spanish Native" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/B1-BAE6FD?&label=Italian&labelColor=0369A1&style=for-the-badge">
+  <img src="https://img.shields.io/badge/B1-7DD3FC?&label=Italian&labelColor=0B1B2B&style=for-the-badge" alt="Italian B1" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/A1-BAE6FD?&label=French&labelColor=0369A1&style=for-the-badge">
+  <img src="https://img.shields.io/badge/A1-7DD3FC?&label=French&labelColor=0B1B2B&style=for-the-badge" alt="French A1" />
+</picture>
 
 </div>
 
