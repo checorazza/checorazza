@@ -1,19 +1,17 @@
-<div align="center">
 
-<a href="https://github.com/checorazza">
+
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img src="./assets/banner.svg" alt="checorazza" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/whoami-light.svg">
+    <img src="./assets/whoami.svg" width="63%" alt="Terminal whoami de checorazza" />
   </picture>
-</a>
-
-<a href="https://github.com/checorazza">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=0284C7&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Functional+Analysis+%7C+UX%2FUI+Design;React+%7C+TypeScript+%7C+Python+%7C+Flask">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=7DD3FC&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Functional+Analysis+%7C+UX%2FUI+Design;React+%7C+TypeScript+%7C+Python+%7C+Flask" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/visual-map-light.svg">
+    <img src="./assets/visual-map.svg" width="35%" alt="Visual map 1-bit animado: personaje de checorazza y pingüino" />
   </picture>
-</a>
+</p>
 
+<div align=center>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C1-BAE6FD?&label=English&labelColor=0369A1&style=for-the-badge">
   <img src="https://img.shields.io/badge/C1-7DD3FC?&label=English&labelColor=0B1B2B&style=for-the-badge" alt="English C1" />
@@ -30,24 +28,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/A1-BAE6FD?&label=French&labelColor=0369A1&style=for-the-badge">
   <img src="https://img.shields.io/badge/A1-7DD3FC?&label=French&labelColor=0B1B2B&style=for-the-badge" alt="French A1" />
 </picture>
-
 </div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/whoami-light.svg">
-    <img src="./assets/whoami.svg" width="63%" alt="Terminal whoami de checorazza" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/visual-map-light.svg">
-    <img src="./assets/visual-map.svg" width="35%" alt="Visual map 1-bit animado: personaje de checorazza y pingüino" />
-  </picture>
-</p>
 
 
 <div align="center">
-
-
 <div id="toc">
   <ul style="list-style: none">
     <summary>
@@ -56,8 +40,24 @@
     ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
   </ul>
 </div>
+</div>
 
-<a href="https://github.com/checorazza"><img  src="https://simpleskill.icons.workers.dev/svg?i=html5,css,javascript,typescript,react,python,flask,sqlite,figma"></a>
+<pre>
+<b>skills/</b>
+├── <b>frontend/</b>
+│   ├── <img src="https://skillicons.dev/icons?i=html&theme=dark" height="20" alt="HTML5" /> html5.html       # markup
+│   ├── <img src="https://skillicons.dev/icons?i=css&theme=dark" height="20" alt="CSS3" /> css3.css         # styles
+│   ├── <img src="https://skillicons.dev/icons?i=js&theme=dark" height="20" alt="JavaScript" /> javascript.js   # language
+│   ├── <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="20" alt="TypeScript" /> typescript.ts   # language
+│   └── <img src="https://skillicons.dev/icons?i=react&theme=dark" height="20" alt="React" /> react.jsx        # library
+├── <b>backend/</b>
+│   ├── <img src="https://skillicons.dev/icons?i=python&theme=dark" height="20" alt="Python" /> python.py       # language
+│   └── <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="20" alt="Flask" /> flask.py        # framework
+├── <b>database/</b>
+│   └── <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="20" alt="SQLite" /> sqlite.db       # database
+└── <b>design/</b>
+    └── <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="20" alt="Figma" /> figma.fig        # design tool
+</pre>
 
 <a href="https://www.github.com/checorazza">
   <picture>
