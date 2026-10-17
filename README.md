@@ -40,25 +40,8 @@
     ━━━━━━━━ ☆ ★ ☆ ━━━━━━━━
   </ul>
 </div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,python,flask,django,sqlite,postgresql,figma&theme=dark">
 </div>
-
-<pre>
-<b>skills/</b>
-├── <b>frontend/</b>
-│   ├── <img src="https://skillicons.dev/icons?i=html&theme=dark" height="20" alt="HTML5" /> html5.html       # markup
-│   ├── <img src="https://skillicons.dev/icons?i=css&theme=dark" height="20" alt="CSS3" /> css3.css         # styles
-│   ├── <img src="https://skillicons.dev/icons?i=js&theme=dark" height="20" alt="JavaScript" /> javascript.js   # language
-│   ├── <img src="https://skillicons.dev/icons?i=ts&theme=dark" height="20" alt="TypeScript" /> typescript.ts   # language
-│   └── <img src="https://skillicons.dev/icons?i=react&theme=dark" height="20" alt="React" /> react.jsx        # library
-├── <b>backend/</b>
-│   ├── <img src="https://skillicons.dev/icons?i=python&theme=dark" height="20" alt="Python" /> python.py       # language
-│   └── <img src="https://skillicons.dev/icons?i=flask&theme=dark" height="20" alt="Flask" /> flask.py        # framework
-├── <b>database/</b>
-│   └── <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="20" alt="SQLite" /> sqlite.db       # database
-└── <b>design/</b>
-    └── <img src="https://skillicons.dev/icons?i=figma&theme=dark" height="20" alt="Figma" /> figma.fig        # design tool
-</pre>
-
 <div align=center>
 <a href="https://git.io/streak-stats"><picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app/?user=checorazza&theme=react&hide_border=true&background=E0F2FE&ring=0284C7&fire=0EA5E9&currStreakNum=0B2A43&sideNums=0B2A43&currStreakLabel=0369A1&sideLabels=0369A1&dates=0369A1"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=checorazza&theme=react&hide_border=true&background=0B1B2B&ring=38BDF8&fire=7DD3FC&currStreakNum=E0F2FE&sideNums=E0F2FE&currStreakLabel=7DD3FC&sideLabels=7DD3FC&dates=7DD3FC" alt="GitHub Streak" /></picture></a>
 </div>
@@ -76,6 +59,7 @@
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-38BDF8?logo=linkedin-white&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/corazzacecilia/)
 [![Behance](https://img.shields.io/badge/Behance-7DD3FC?logo=behance&logoColor=0B1B2B&style=for-the-badge)](http://www.behance.net/checorazza)
+[![Apuntes](https://img.shields.io/badge/Apuntes-8A8CFF?style=for-the-badge)](https://checo-apuntes.pages.dev/)
 
 <sub>Made in Argentina with lots of love and coffee. </sub>
 </div>
